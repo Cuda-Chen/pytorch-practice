@@ -1,0 +1,6 @@
+conda:
+    pytorch 
+pip:
+    pandas
+    jupyter notebook
+    tensorboard
