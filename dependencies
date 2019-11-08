@@ -4,3 +4,4 @@ pip:
     pandas
     jupyter notebook
     tensorboard
+    fastai
